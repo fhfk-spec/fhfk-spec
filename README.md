@@ -19,4 +19,4 @@
 ### 🤝 함께해요
 AI 활용 기획, 교육·프로그램 운영, 콘텐츠 자동화에 관심 있어요. 같이 만들거나 이야기 나누고 싶다면 편하게 연락 주세요.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-연락하기-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%B5%9C-%ED%98%9C%EB%A6%BC-042288249/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-연락하기-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyerim-ai/)
