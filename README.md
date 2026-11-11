@@ -8,7 +8,6 @@
 | 작업물 | 한 줄 소개 | 보기 |
 |---|---|---|
 | **맞춤식단** | 비건·고단백 식단이나 음식 알러지가 있어도 외식할 수 있게 돕는 식당 안내 사이트 | [사이트 열기](https://fhfk-spec.github.io/portfolio/matchum-sikdan/) |
-| **인스타툰 제작 AI 에이전트** | 소재 한 줄 → 콘티·그림·검수·캡션까지 업로드 직전 패키지를 만드는 에이전트 | [설계·코드](https://github.com/fhfk-spec/portfolio/tree/main/instatoon-agent) |
 
 👉 전체 포트폴리오: **https://fhfk-spec.github.io/portfolio/**
 
